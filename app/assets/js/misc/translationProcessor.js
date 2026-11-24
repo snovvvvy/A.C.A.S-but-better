@@ -238,7 +238,9 @@
 		updateFontEligibility();
 	}
 
-	const savedLanguage = localStorage.getItem(storageLanguageKey) || currentLang;
+	// American English is the only language; drop any language saved by older versions
+	const savedLanguage = currentLang;
+	try { localStorage.removeItem(storageLanguageKey); } catch {}
 
 	window.ACAS_LOADING?.setStage(12, 'translations');
 	load(savedLanguage).then(() => {

@@ -1,42 +1,8 @@
 // ==UserScript==
 // @name        🏆 [#1 Chess Assistant] A.C.A.S (Advanced Chess Assistance System)
 // @name:en     🏆 [#1 Chess Assistant] A.C.A.S (Advanced Chess Assistance System)
-// @name:fi     🏆 [#1 Chess Assistant] A.C.A.S (Edistynyt shakkiavustusjärjestelmä)
-// @name:sw     🏆 [#1 Chess Assistant] A.C.A.S (Advanserad Schack Assitant System)
-// @name:es     🏆 [#1 Chess Assistant] A.C.A.S (Sistema Avanzado de Asistencia al Ajedrez)
-// @name:hi     🏆 [#1 Chess Assistant] A.C.A.S (उन्नत शतरंज सहायता प्रणाली)
-// @name:ar     🏆 [#1 Chess Assistant] A.C.A.S (نظام المساعدة المتقدم في الشطرنج)
-// @name:pt     🏆 [#1 Chess Assistant] A.C.A.S (Sistema Avançado de Assistência ao Xadrez)
-// @name:ja     🏆 [#1 Chess Assistant] A.C.A.S（先進的なチェス支援システム）
-// @name:de     🏆 [#1 Chess Assistant] A.C.A.S (Fortgeschrittenes Schach-Hilfesystem)
-// @name:fr     🏆 [#1 Chess Assistant] A.C.A.S (Système Avancé d'Assistance aux Échecs)
-// @name:it     🏆 [#1 Chess Assistant] A.C.A.S (Sistema Avanzato di Assistenza agli Scacchi)
-// @name:ko     🏆 [#1 Chess Assistant] A.C.A.S (고급 체스 보조 시스템)
-// @name:nl     🏆 [#1 Chess Assistant] A.C.A.S (Geavanceerd Schaakondersteuningssysteem)
-// @name:pl     🏆 [#1 Chess Assistant] A.C.A.S (Zaawansowany System Pomocy Szachowej)
-// @name:tr     🏆 [#1 Chess Assistant] A.C.A.S (Gelişmiş Satranç Yardım Sistemi)
-// @name:vi     🏆 [#1 Chess Assistant] A.C.A.S (Hệ Thống Hỗ Trợ Cờ Vua Nâng Cao)
-// @name:uk     🏆 [#1 Chess Assistant] A.C.A.S (Система передової допомоги в шахах)
-// @name:ru     🏆 [#1 Chess Assistant] A.C.A.S (Система расширенной помощи в шахматах)
 // @description        Enhance your chess performance with a cutting-edge real-time move analysis and strategy assistance system
 // @description:en     Enhance your chess performance with a cutting-edge real-time move analysis and strategy assistance system
-// @description:fi     Paranna shakkipelisi suorituskykyä huippuluokan reaaliaikaisen siirtoanalyysin ja strategisen avustusjärjestelmän avulla
-// @description:sw     Förbättra dina schackprestationer med ett banbrytande rörelseanalys i realtid och strategiassistans
-// @description:es     Mejora tu rendimiento en ajedrez con un sistema de análisis de movimientos en tiempo real y asistencia estratégica de vanguardia
-// @description:hi     अपने शतरंज प्रदर्शन को उन्नत करें, एक कटिंग-एज रियल-टाइम मूव विश्लेषण और रणनीति सहायता प्रणाली के साथ
-// @description:ar     قم بتحسين أداءك في الشطرنج مع تحليل حركات اللعب في الوقت الحقيقي ونظام مساعدة استراتيجية حديث
-// @description:pt     Melhore seu desempenho no xadrez com uma análise de movimentos em tempo real e um sistema avançado de assistência estratégica
-// @description:ja     最新のリアルタイムのムーブ分析と戦略支援システムでチェスのパフォーマンスを向上させましょう
-// @description:de     Verbessern Sie Ihre Schachleistung mit einer hochmodernen Echtzeitzug-Analyse- und Strategiehilfe-System
-// @description:fr     Améliorez vos performances aux échecs avec une analyse de mouvement en temps réel de pointe et un système d'assistance stratégique
-// @description:it     Migliora le tue prestazioni agli scacchi con un sistema all'avanguardia di analisi dei movimenti in tempo reale e assistenza strategica
-// @description:ko     최첨단 실시간 움직임 분석 및 전략 지원 시스템으로 체스 성과 향상
-// @description:nl     Verbeter je schaakprestaties met een geavanceerd systeem voor realtime zetanalyse en strategische ondersteuning
-// @description:pl     Popraw swoje osiągnięcia w szachach dzięki zaawansowanemu systemowi analizy ruchów w czasie rzeczywistym i wsparciu strategicznemu
-// @description:tr     Keskinleşmiş gerçek zamanlı hareket analizi ve strateji yardım sistemiyle satranç performansınızı artırın
-// @description:vi     Nâng cao hiệu suất cờ vua của bạn với hệ thống phân tích nước đi và hỗ trợ chiến thuật hiện đại
-// @description:uk     Покращуйте свою шахову гру з використанням передової системи аналізу ходів в режимі реального часу та стратегічної підтримки
-// @description:ru     Слава Украине
 // @homepageURL https://psyyke.github.io/A.C.A.S
 // @supportURL  https://github.com/Psyyke/A.C.A.S/tree/main#why-doesnt-it-work
 // @match       https://psyyke.github.io/A.C.A.S/*
